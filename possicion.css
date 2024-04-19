@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 200;
+    height: 200;
+    background-color: blueviolet;
+}
+
+
+
+.div-dad{
+    background-color: blue;
+    width: 2000px;
+    height: 300px;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    position: fixed;
+    top: 0px;
+   
+}
+
+.div-son{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    position: absolute;
+    top: 20px;
+    position: fixed;
+    transition: 1s;
+
+    left: 50px;
+    padding-top: 80px;
+    text-transform: uppercase;
+    cursor: pointer;}
+
+
+
+
+.div-girl{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    position: static;
+    top: 0px;
+    transition: 1s;
+}
+
+.div-son:hover{
+    transform: translateY(-10px)
+}   
+
+
