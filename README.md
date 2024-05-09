@@ -5,6 +5,6 @@
 <br>
 <p>Projeto para :computer: e :iphone:.</p> 
 <br>
-
 <img src="https://github.com/allessondantas/easy-shopping-one/blob/master/img.one.png?raw=true"/>
 <br>
+<img src="
